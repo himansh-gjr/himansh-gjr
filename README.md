@@ -1,16 +1,18 @@
 ## { Hello World }<img align="right" src="https://img.icons8.com/bubbles/50/000000/india.png"/>
 
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/i.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/m.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/a.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/n.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/s.png"/>
-<img width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/i.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/m.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/a.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/n.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/s.png"/>
+<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
 
-A full stack web developer.
+<br/>
 
-<img align="right" src="./assets/me.png"/>
+### A full stack web developer.
+
+<img width="500px"  align="right" src="./assets/me.png"/>
 
 <br/>
 
