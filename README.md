@@ -30,7 +30,7 @@
 
 ## Meet me Virtually
 
-- <img  align="left" width="20px" src="https://img.icons8.com/color/48/000000/instagram.png"/>[@himansh_gujjar](https://instagram.comhimansh_gujjar)
+- <img  align="left" width="20px" src="https://img.icons8.com/color/48/000000/instagram.png"/>[@himansh_gujjar](https://instagram.com/himansh_gujjar)
 - <img align="left" width="20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>[Himansh-Nagar](https://www.linkedin.com/in/himansh-nagar/)
 
 
