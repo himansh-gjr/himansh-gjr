@@ -24,7 +24,7 @@
 - Node JS
 - HTML , CSS, SASS
 - MySQL, SQL, Mongo
-- REACT JS (comming soon)
+- REACT JS
 
 <img align="left" width="36px"  src="https://img.icons8.com/color/48/000000/share-2.png"/>
 
