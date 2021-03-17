@@ -39,4 +39,3 @@
 ## My Portfolio
 
 - [Portfolio_0](http://dreamdesigner.glitch.me/)
-- [Portfolio_1](https://himansh-portfolio.netlify.app/)
