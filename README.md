@@ -10,7 +10,7 @@
 
 <br/>
 
-### A full stack web developer.
+### React Developer
 
 <img width="500px"  align="right" src="./assets/me.png"/>
 
