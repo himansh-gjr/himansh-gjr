@@ -10,7 +10,7 @@
 
 <br/>
 
-### React Developer
+### Self taught React Developer
 
 <img width="500px"  align="right" src="./assets/me.png"/>
 
