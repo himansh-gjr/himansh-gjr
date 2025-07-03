@@ -8,7 +8,7 @@ Welcome! I’m passionate about building robust products, leading teams, and exp
 
 - 👨‍💻 Lead Engineer | Full Stack Developer
 - 🌱 Always learning, always building
-- ✨ Open to collaboration & new opportunities
+- ✨ Curious
 
 ---
 
