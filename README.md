@@ -1,43 +1,102 @@
-## { Hello World }<img align="right" src="https://img.icons8.com/bubbles/50/000000/india.png"/>
+# 👋 Hi, I'm Himansh — Lead Engineer & Full Stack Dev
 
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/i.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/m.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/a.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/n.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/s.png"/>
-<img align="left" width="50px" src="https://img.icons8.com/dusk/64/000000/h.png"/>
+Welcome! I’m passionate about building robust products, leading teams, and exploring the latest in tech.
 
-<br/>
+---
 
-### Self taught React Developer
+## 🚀 About Me
 
-<img width="500px"  align="right" src="./assets/me.png"/>
+- 👨‍💻 Lead Engineer | Full Stack Developer
+- 🌱 Always learning, always building
+- ✨ Open to collaboration & new opportunities
 
-<br/>
+---
 
-<img align="left" src="https://img.icons8.com/nolan/40/enlightened.png" />
+## 🛠️ Languages & Tools
 
-## Skills
+<div align="center">
 
-- REACT NATIVE
-- REACT JS
-- JavaScript, Python3
-- Node JS
-- HTML , CSS, SASS
-- MySQL, SQL, Mongo
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,reactnative,sass,scss,bootstrap,tailwind,shopify,ejs" height="32"/>
 
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,postgres,mongodb,sql" height="32"/>
 
-<img align="left" width="36px"  src="https://img.icons8.com/color/48/000000/share-2.png"/>
+**DevOps & Cloud**  
+<img src="https://skillicons.dev/icons?i=aws,githubactions,git,github,postman,npm,yarn" height="32"/>
 
-## Meet me Virtually
+**Other**  
+<img src="https://skillicons.dev/icons?i=cpp,c,router,ecommerce,jwt,rest" height="32"/>
+</div>
 
-- <img  align="left" width="20px" src="https://img.icons8.com/color/48/000000/instagram.png"/>[@himansh_gujjar](https://instagram.com/himansh_gujjar)
-- <img align="left" width="20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>[Himansh-Nagar](https://www.linkedin.com/in/himansh-nagar/)
+---
 
+## 📈 GitHub Stats
 
-<img align="left" width="36px" src="https://img.icons8.com/color//000000/user-male-circle--v1.png"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himansh-gjr&show_icons=true&theme=radical&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=himansh-gjr&theme=radical" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himansh-gjr&theme=radical" height="170"/>
+</p>
 
-## My Portfolio
+> 🟢 <b>2,679+ total contributions including private</b> — public stats are just a glimpse of my journey!
 
-<!-- - [Portfolio_0](http://dreamdesigner.glitch.me/) -->
+---
+
+## 🎮 Play My Dev-Themed Mini Games!
+
+> Explore my collection of fun, interactive tech games!  
+> Challenge your friends, compete for high scores, and enjoy some developer humor.
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Tech Stack Memory Match</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/memory-match.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/dev-memory-match">▶️ Play Now</a>
+    </td>
+    <td align="center">
+      <b>Commit Typing Challenge</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/commit-typing.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/commit-typing-challenge">▶️ Play Now</a>
+    </td>
+    <td align="center">
+      <b>GitHub Contribution Snake</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/contribution-snake.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/contrib-snake-game">▶️ Play Now</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Bug Squasher</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/bug-squasher.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/bug-squasher">▶️ Play Now</a>
+    </td>
+    <td align="center">
+      <b>Guess the Logo</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/guess-the-logo.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/guess-the-logo">▶️ Play Now</a>
+    </td>
+    <td align="center">
+      <b>Pull Request Simulator</b><br/>
+      <img src="https://raw.githubusercontent.com/himansh-gjr/assets/main/games/pull-request-simulator.gif" width="160"/><br/>
+      <a href="https://himansh-gjr.github.io/pull-request-simulator">▶️ Play Now</a>
+    </td>
+  </tr>
+</table>
+
+> 🏆 Play, share your high score, and let’s connect!
+
+---
+
+## 🤝 Let’s Connect
+
+- [LinkedIn](#) • [Portfolio](#) • [Email](#) <!-- Add your real links here -->
+
+---
+
+<!--
+**himansh-gjr/himansh-gjr** is a special repository — its README.md appears on your profile!
+-->
